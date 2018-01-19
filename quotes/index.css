@@ -1,0 +1,21 @@
+body {
+    background: url('./imgs/zen1.jpg') no-repeat center center fixed;
+   
+  }
+
+#box-center-quote,
+#box-center-author {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-bottom: 300px;
+}
+
+#box-center-author {
+    margin-top: 50px;
+}
+
+#quoteBox {
+    border: 1px solid black;
+}
